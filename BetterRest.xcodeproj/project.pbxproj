@@ -15,6 +15,7 @@
 		5514007B22D217FD00321FB2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5514007922D217FD00321FB2 /* LaunchScreen.storyboard */; };
 		5514008622D217FE00321FB2 /* BetterRestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5514008522D217FE00321FB2 /* BetterRestTests.swift */; };
 		5514009122D217FE00321FB2 /* BetterRestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5514009022D217FE00321FB2 /* BetterRestUITests.swift */; };
+		5514009F22D2374900321FB2 /* SleepCalculatormmlmodel.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 5514009E22D2374900321FB2 /* SleepCalculatormmlmodel.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		5514008C22D217FE00321FB2 /* BetterRestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BetterRestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5514009022D217FE00321FB2 /* BetterRestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BetterRestUITests.swift; sourceTree = "<group>"; };
 		5514009222D217FE00321FB2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5514009E22D2374900321FB2 /* SleepCalculatormmlmodel.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculatormmlmodel.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				5514007022D217FC00321FB2 /* SceneDelegate.swift */,
 				5514007222D217FC00321FB2 /* ViewController.swift */,
 				5514007422D217FC00321FB2 /* Main.storyboard */,
+				5514009E22D2374900321FB2 /* SleepCalculatormmlmodel.mlmodel */,
 				5514007722D217FD00321FB2 /* Assets.xcassets */,
 				5514007922D217FD00321FB2 /* LaunchScreen.storyboard */,
 				5514007C22D217FD00321FB2 /* Info.plist */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5514007322D217FC00321FB2 /* ViewController.swift in Sources */,
+				5514009F22D2374900321FB2 /* SleepCalculatormmlmodel.mlmodel in Sources */,
 				5514006F22D217FC00321FB2 /* AppDelegate.swift in Sources */,
 				5514007122D217FC00321FB2 /* SceneDelegate.swift in Sources */,
 			);
